@@ -1,0 +1,19 @@
+Game Name - Kill of the Night
+Team Name - Squadron
+Description - Featuring one of the most famous urban legends in Sri Lanka, the game promotes Mohini as the protoganist 
+              with an objective of luring new victims to her abode
+Tagline - Enriching your play
+Game Type - Browser Game
+Genre - Fantasy/Mythology
+Release Status - Beta
+Pricing - Free of charge
+Details - 2D browser game. Character is controlled by arrow keys and mouse can be used to access options in the HUD
+Theme - Local urban legends
+Used Diversifiers - None
+Developed by -       Name      |           Age          |               Email                  |        Skills
+
+                 Akalanka Perera         18 years             akalankaperera128@gmail.com              Developer
+                 Hasini Dissanayake      20 years             dishasini99@gmail.com                    Developer+Presenter
+                 Sajivini Nagendran      22 years             sajinagen6@gmail.com                     Developer
+                 Pasindu Malshan         20 years             Pasindumalshan46@gmail.com               Developer
+Engine Used - Construct 2
